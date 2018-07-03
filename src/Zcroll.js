@@ -68,7 +68,7 @@ class ZcrollFactory {
         n.removeEventListener('click', s.Zcroller.smoothScroll());
       })
     });
-    this.selectors.empty();
+    this.selectors = [];
   }
 
 }
