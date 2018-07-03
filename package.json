@@ -1,0 +1,22 @@
+{
+  "name": "zcroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/Zcroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanson222/Zcroll.git"
+  },
+  "author": "Zearch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanson222/Zcroll/issues"
+  },
+  "homepage": "https://github.com/sanson222/Zcroll#readme",
+  "dependencies": {
+    "bezier-easing": "^2.1.0"
+  }
+}
